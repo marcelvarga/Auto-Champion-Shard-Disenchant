@@ -59,7 +59,3 @@ while True:
 
     if isRunning == True:
         disenchant()
-
-    
-    
-
