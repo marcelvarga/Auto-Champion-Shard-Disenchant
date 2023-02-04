@@ -22,7 +22,7 @@ def disenchant():
     # Click disenchant button
     pyautogui.moveTo(mousePositions[2][0], mousePositions[2][1])
     pyautogui.click()
-    time.sleep(1.3)
+    time.sleep(1.6)
 
 def on_click(x, y, button, pressed):
     # Store the last three clicks
